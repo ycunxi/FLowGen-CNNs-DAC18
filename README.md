@@ -7,11 +7,11 @@
 ###### For example: rw; rw; rf; rfz; b; rf; b; rw; rfz; rs -K 6; b; rf; b; rs -K 6; rwz; rfz; rs -K 6; rw; rwz; rwz; rf; rwz; rfz; rs -K 6 \n
 ###### Note: please always start with "strash" ("st") before applying the random flows.
 ### Demo Code (jupyter)
-##### ./dac18_keras_implementation.ipynb
+###### ./dac18_keras_implementation.ipynb
 ## Reference
-##### Developing Synthesis Flows without Human Knowledge.\n
-##### Cunxi Yu, Houping Xiao and Giovanni De Micheli \n
-##### ACM/IEEE Design Automation Conference (DAC'18)
+###### Developing Synthesis Flows without Human Knowledge.\n
+###### Cunxi Yu, Houping Xiao and Giovanni De Micheli \n
+###### ACM/IEEE Design Automation Conference (DAC'18)
 
 ## Contact
 ###### Cunxi Yu.
