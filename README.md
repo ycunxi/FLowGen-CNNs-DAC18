@@ -9,8 +9,8 @@
 ### Demo Code (jupyter)
 ###### ./dac18_keras_implementation.ipynb
 ## Reference
-###### Developing Synthesis Flows without Human Knowledge.\n
-###### Cunxi Yu, Houping Xiao and Giovanni De Micheli \n
+###### Developing Synthesis Flows without Human Knowledge.
+###### Cunxi Yu, Houping Xiao and Giovanni De Micheli
 ###### ACM/IEEE Design Automation Conference (DAC'18)
 
 ## Contact
