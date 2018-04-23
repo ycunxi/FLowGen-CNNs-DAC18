@@ -1,14 +1,16 @@
 # FLowGen-CNNs-DAC18
 ## Contents
 ### ABC Random flows
-/datasets/abc_100k_random_flow.rc
+/datasets/abc_100k_random_flows.rc
 ### Datasets
-/datasets/
+64-bit Montegomery Multiplier datasets (csv format): datasets/64bitGF/delay/ \n
+For example: rw; rw; rf; rfz; b; rf; b; rw; rfz; rs -K 6; b; rf; b; rs -K 6; rwz; rfz; rs -K 6; rw; rwz; rwz; rf; rwz; rfz; rs -K 6 \n
+Note: please always start with "strash" ("st") before applying the random flows.
 ### Demo Code (jupyter)
 
 ## Reference
-Developing Synthesis Flows without Human Knowledge.
-Cunxi Yu, Houping Xiao and Giovanni De Micheli
+Developing Synthesis Flows without Human Knowledge.\n
+Cunxi Yu, Houping Xiao and Giovanni De Micheli \n
 ACM/IEEE Design Automation Conference (DAC'18)
 
 ##Contact
