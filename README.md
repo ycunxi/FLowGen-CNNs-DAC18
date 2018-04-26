@@ -9,7 +9,7 @@ Note: please always start with "strash" ("st") before applying the random flows.
 ### Demo Code
 ./dac18_keras_implementation.ipynb (keras implementation)
 ## Reference
-*Developing Synthesis Flows without Human Knowledge.Cunxi Yu, Houping Xiao and Giovanni De Micheli<br/>
+*Developing Synthesis Flows without Human Knowledge.* Cunxi Yu, Houping Xiao and Giovanni De Micheli<br/>
 ACM/IEEE Design Automation Conference (DAC'18)<br/>
 
 ## Contact
