@@ -27,7 +27,7 @@ For example: rw; rw; rf; rfz; b; rf; b; rw; rfz; rs -K 6; b; rf; b; rs -K 6; rwz
 Note: please always start with "strash" ("st") before applying the random flows.<br/>
 #### How to get data points using your own design and Technlogy library?
 Command: **./abc -c "read i10.aig; synthesis_rand_1"**
-*stout by ABC shown bellow*<br/>
+<sub>*stout by ABC shown bellow*<br/>
 *ABC command line: "read i10.aig; synthesis_rand_1".<br/>
 Entered genlib library with 15 gates from file "yourLib.genlib".<br/>
 Converting "yourLib.genlib" into supergate library "yourLib.super".<br/>
@@ -44,7 +44,7 @@ Output  V432       : Delay = (217.67, 217.67)  POS<br/>
 Output  V393(0)    : Delay = (216.03, 216.03)  NEG<br/>
 Output  V357       : Delay = (205.00, 205.00)  POS<br/>
 Total runtime =     0.06 sec<br/>
-i10                           : i/o =  257/  224  lat =    0  nd =  1581  edge =   3676  area =7172.00  delay =218.63  lev = 21*<br/>
+i10                           : i/o =  257/  224  lat =    0  nd =  1581  edge =   3676  area =7172.00  delay =218.63  lev = 21*<br/></sub>
 
 
 ### Demo Code
