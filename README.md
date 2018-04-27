@@ -11,7 +11,8 @@ Link to paper: https://ycunxi.github.io/cunxiyu/papers/dac18.pdf
 
 - Python 2.7/3.x
 - [Tensorflow] backend
-- [Pandas, numpy, sklearn]
+- [Keras] high-level neural networks API
+- [pandas, numpy, sklearn, h5py] 
 - [matplotlib] plot
 
 
