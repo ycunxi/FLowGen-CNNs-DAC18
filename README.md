@@ -27,7 +27,7 @@ For example: rw; rw; rf; rfz; b; rf; b; rw; rfz; rs -K 6; b; rf; b; rs -K 6; rwz
 Note: please always start with "strash" ("st") before applying the random flows.<br/>
 #### How to get data points using your own design and Technlogy library?
 Command: **./abc -c "read i10.aig; synthesis_rand_1"**
-<sub>*stout by ABC shown bellow*<br/>
+<sub><br/>*stout by ABC shown bellow*<br/>
 *ABC command line: "read i10.aig; synthesis_rand_1".<br/>
 Entered genlib library with 15 gates from file "yourLib.genlib".<br/>
 Converting "yourLib.genlib" into supergate library "yourLib.super".<br/>
