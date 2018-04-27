@@ -1,6 +1,5 @@
 # FLowGen-CNNs-DAC18: 
-Demo datasets generated with open source Logic Synthesis framework ABC from UC Berkeley [see https://github.com/berkeley-abc/abc]
-Technology: 14nm <br/>
+Demo datasets generated with open source Logic Synthesis framework ABC from UC Berkeley [see https://github.com/berkeley-abc/abc]<br/>
 Link to paper: https://ycunxi.github.io/cunxiyu/papers/dac18.pdf
 
 [![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/ycunxi/FLowGen-CNNs-DAC18/blob/master/LICENSE.md)
