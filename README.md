@@ -1,5 +1,6 @@
 # FLowGen-CNNs-DAC18: 
-## Demo with Logic Synthesis framework ABC from UC Berkeley [see https://github.com/berkeley-abc/abc]
+Demo datasets generated with open source Logic Synthesis framework ABC from UC Berkeley [see https://github.com/berkeley-abc/abc]
+Technology: 14nm
 
 [![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/ycunxi/FLowGen-CNNs-DAC18/blob/master/LICENSE.md)
 [![dep1](https://img.shields.io/badge/implementation-tensorflow-orange.svg)](https://www.tensorflow.org/)
@@ -7,10 +8,11 @@
 
 ## Requirements
 
-- Python 2.7
-- [Tensorflow](https://www.tensorflow.org/)
-- [Pandas](https://pandas.pydata.org) (for pre-processing Bitcoin Price Series)
-- [tqdm](https://pypi.python.org/pypi/tqdm) (for displaying progress of training)<br>
+- Python 2.7/3.x
+- [Tensorflow] backend
+- [Pandas, numpy, sklearn]
+- [matplotlib] plot
+
 
 
 # FLowGen-CNNs-DAC18
