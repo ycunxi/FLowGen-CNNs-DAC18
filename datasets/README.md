@@ -1,5 +1,6 @@
 #### How to get data points using your own design and Technlogy library?
-Command: **./abc -c "read i10.aig; synthesis_rand_1"**
+##### Command: **./abc -c "read i10.aig; synthesis_rand_1"**
+##### Notes: make sure you have "yourLib.genlib" at the your env
 <sub><br/>*stout by ABC shown bellow*<br/>
 *ABC command line: "read i10.aig; synthesis_rand_1".<br/>
 Entered genlib library with 15 gates from file "yourLib.genlib".<br/>
