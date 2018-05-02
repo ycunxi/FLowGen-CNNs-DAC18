@@ -52,6 +52,16 @@ i10                           : i/o =  257/  224  lat =    0  nd =  1581  edge =
 *Developing Synthesis Flows without Human Knowledge.* Cunxi Yu, Houping Xiao and Giovanni De Micheli<br/>
 ACM/IEEE Design Automation Conference (DAC'18)<br/>
 
+```
+  @article{cunxi-dac18-cnnFlowGen,
+    title   = "{Developing Synthesis Flows without Human Knowledge}",
+    author  = {Cunxi Yu and Houping Xiao and Giovanni De Micheli},
+    journal = {Design Automation Conference (DAC'18)},
+    month   = {June},
+    year    = {2018},
+  }
+```
+
 ## Contact
-Cunxi Yu.<br/>
+Cunxi Yu, LSI, EPFL<br/>
 Email: cunxi.yu@epfl.ch<br/>
