@@ -13,6 +13,8 @@ Link to paper: https://ycunxi.github.io/cunxiyu/papers/dac18.pdf
 - [Keras] high-level neural networks API
 - [pandas, numpy, sklearn, h5py] 
 - [matplotlib] plot
+- [ABC] [OPTION] if you are interested in applying to your own designs, you need to generate corresponding data points
+        , with your own technology lib; abc.rc file (100k flows) is included in /datasets
 
 
 
@@ -47,7 +49,7 @@ i10                           : i/o =  257/  224  lat =    0  nd =  1581  edge =
 
 
 ### Demo Code
-./dac18_keras_implementation.ipynb (keras implementation)
+./dac18_keras_implementation.ipynb (keras implementation) *This file only includes the demo training and testing results of CNN classifier. For generating datasets, see above & /datasets dir.*
 ## Reference
 *Developing Synthesis Flows without Human Knowledge.* Cunxi Yu, Houping Xiao and Giovanni De Micheli<br/>
 ACM/IEEE Design Automation Conference (DAC'18)<br/>
