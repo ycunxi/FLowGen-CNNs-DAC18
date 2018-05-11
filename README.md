@@ -49,7 +49,11 @@ i10                           : i/o =  257/  224  lat =    0  nd =  1581  edge =
 
 
 ### Demo Code
-./dac18_keras_implementation.ipynb (keras implementation) *This file only includes the demo training and testing results of CNN classifier. For generating datasets, see above & /datasets dir.*
+*These jupyter files only includes the demo training and testing results of CNN classifier. For generating datasets, see above & /datasets dir.*<br/>
+1) dac18_keras_train_n_inference.ipynb (keras implementation) <br/>
+Includes training and inference. Trained model has been saved in "dac18_GF_delay_model_save_test.h5"<br/>
+2) dac18_keras_inference_only.ipynb
+Loads pre-trained model and do inference only.<br/>
 ## Reference
 *Developing Synthesis Flows without Human Knowledge.* Cunxi Yu, Houping Xiao and Giovanni De Micheli<br/>
 ACM/IEEE Design Automation Conference (DAC'18)<br/>
